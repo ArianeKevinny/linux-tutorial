@@ -1,0 +1,5 @@
+Ubuntu versão 20.04
+
+Snap:
+$ sudo apt-get install snapd snapd-xdg-open
+$ sudo snap install code --classic 
